@@ -1,0 +1,14 @@
+#mainMenuForward {
+    margin: 8px;
+    border-radius: 16px;
+    background-color: bisque;
+    color: black;
+    padding: 8px;
+    display: inline-block;
+    justify-content: center;
+}
+
+#rowCenter {
+    display: flex;
+    justify-content: center;
+}
