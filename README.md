@@ -1,7 +1,7 @@
 # İzmir Ulaşım Haritası
  İzmir Ulaşım Haritası Web Sitesi
 
-~~https://izmirulasimharitasi.netlify.app/~~
+https://izmirulasimharitasi.netlify.app/
 
 ![1](https://github.com/AenR/izmir-ulasim-haritasi/assets/40569269/95f9daad-5ce3-4350-a71f-5929b71362d3)
 ![2](https://github.com/AenR/izmir-ulasim-haritasi/assets/40569269/369f356c-6dc1-49bd-ad67-3bad6ce0eb22)
